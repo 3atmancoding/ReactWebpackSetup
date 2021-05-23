@@ -1,2 +1,2 @@
-# todo
-Modern React App using TS, Webpack and React
+# React JS using Webpack and Babel 
+Create react app ```npx create-react-app``` has not been used
